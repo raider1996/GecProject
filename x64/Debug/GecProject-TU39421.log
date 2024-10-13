@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\D3243705\OneDrive - Teesside University\Start Project\GecProject\GecProject\main.cpp(125,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\D3243705\OneDrive - Teesside University\Start Project\GecProject\x64\Debug\GecProject.exe not found or not built by the last incremental link; performing full link
+sfml-main-d.lib(MainWin32.obj) : warning LNK4099: PDB '' was not found with 'sfml-main-d.lib(MainWin32.obj)' or at ''; linking object as if no debug info
+  GecProject.vcxproj -> C:\Users\D3243705\OneDrive - Teesside University\Start Project\GecProject\x64\Debug\GecProject.exe

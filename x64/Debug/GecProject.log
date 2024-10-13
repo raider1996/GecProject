@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\D3243705\OneDrive - Teesside University\Start Project\GecProject\GecProject\main.cpp(88,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GecProject.vcxproj -> C:\Users\D3243705\OneDrive - Teesside University\Start Project\GecProject\x64\Debug\GecProject.exe
